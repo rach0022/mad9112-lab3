@@ -3,3 +3,7 @@ body {
     background-color: #00FF00;
     font-size: 200%;
 }
+p {
+    color: green;
+    font-size: 150%;
+}
